@@ -48,6 +48,7 @@ const App = () => {
 			justify="center"
 			fontSize="20px"
 			fontFamily="poppins"
+			backgroundColor="gray.100"
 		>
 			<Box maxW={800} w="100%" h="100vh" py={10} px={2}>
 				<Button colorScheme="blue" onClick={() => [setDataEdit({}), onOpen()]}>
