@@ -1,7 +1,6 @@
 # Crud React
 
 <img src="https://arquivos-lelis.s3.us-east-2.amazonaws.com/img/crud.png" alt="crud imagem">
-https://discord-padrex.netlify.app/
 
 > Projeto para demonstrar um crud feito em React e JavaScript.
 
